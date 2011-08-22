@@ -34,3 +34,6 @@
 [submodule "bundle/JavaScript-indent"]
 	path = bundle/JavaScript-indent
 	url = https://github.com/vim-scripts/JavaScript-Indent.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
