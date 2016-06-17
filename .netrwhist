@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/tonyla/code/ace'
 let g:netrw_dirhist_2='/Users/tonyla/code/uping/.bundle'
 let g:netrw_dirhist_3='/Users/tonyla/.bundle'
 let g:netrw_dirhist_4='/Users/tonyla/.rbenv'
 let g:netrw_dirhist_5='/Users/tonyla/.vim/bundle/ack.vim'
 let g:netrw_dirhist_6='/Users/tonyla/code/enginuity/platform/.bundle'
+let g:netrw_dirhist_7='/Users/tonyla/.config'
+let g:netrw_dirhist_8='/Users/tonyla/.tmuxinator'
